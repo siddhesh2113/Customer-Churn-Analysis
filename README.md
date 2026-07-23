@@ -111,9 +111,9 @@ Interactive slicers allow users to filter the dashboard based on customer attrib
 
 The dashboard helps organizations identify high-risk customer segments, optimize retention initiatives, and make informed business decisions using data-driven insights.
 
-Screenshots / Demos Show what the dashboard looks like
+Screenshots / Demos Show what the dashboard looks like : https://github.com/siddhesh2113/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Dashboard.png
 
 
-Example :
+Example : https://github.com/siddhesh2113/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Dashboard.png
 
       
